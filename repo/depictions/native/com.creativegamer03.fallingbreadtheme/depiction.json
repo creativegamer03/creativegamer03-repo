@@ -59,10 +59,12 @@
 					"class": "DepictionScreenshotsView",
 					"screenshots": [
 						{
+							"accessibilityText": "Snowboard",
 							"url": "https://creativegamer03.github.io/repo/depictions/web/com.creativegamer03.fallingbreadtheme/screenshots/snowboard.png"
 						},
 						{
-							"url": "https://creativegamer03.github.io/repo/depictions/web/com.creativegamer03/fallingbreadtheme/screenshots/demo.gif"
+							"accessibilityText": "Demonstration",
+							"url": "https://creativegamer03.github.io/repo/depictions/web/com.creativegamer03.fallingbreadtheme/screenshots/demo.gif"
 						}
 					]
 				}
