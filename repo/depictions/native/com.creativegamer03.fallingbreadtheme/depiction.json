@@ -1,11 +1,24 @@
 {
 	"minVersion": "0.1",
-	"headerImage": "https://raw.githubusercontent.com/uchks/repo.me/master/assets/Banners/RepoHeader.png",
+	"headerImage": "https://raw.githubusercontent.com/uchks/repo.me/master/assets/packageicons/fallingbreadtheme.png",
 	"tintColor": "#22b5f4",
 	"tabs": [
 		{
 			"tabname": "Details",
 			"views": [
+				{
+					"screenshots": [
+						{
+							"accessibilityText": "Snowboard",
+							"url": "https://creativegamer03.github.io/repo/depictions/web/com.creativegamer03.fallingbreadtheme/screenshots/snowboard.png"
+						},
+						{
+							"accessibilityText": "Demonstration",
+							"url": "https://creativegamer03.github.io/repo/depictions/web/com.creativegamer03.fallingbreadtheme/screenshots/demo.gif"
+						}
+					],
+					"class": "DepictionScreenshotsView"
+				},
 				{
 					"class": "DepictionMarkdownView",
 					"markdown": "## Falling Bread Respring Logo Theme\nThe Falling Bread GIF meme as a Respring Logo Theme!\nA simple and stupid respring theme.\n\n_A Snowboard Respring theme_"
@@ -54,19 +67,6 @@
 				{
 					"spacing": 20,
 					"class": "DepictionSpacerView"
-				},
-				{
-					"class": "DepictionScreenshotsView",
-					"screenshots": [
-						{
-							"accessibilityText": "Snowboard",
-							"url": "https://creativegamer03.github.io/repo/depictions/web/com.creativegamer03.fallingbreadtheme/screenshots/snowboard.png"
-						},
-						{
-							"accessibilityText": "Demonstration",
-							"url": "https://creativegamer03.github.io/repo/depictions/web/com.creativegamer03.fallingbreadtheme/screenshots/demo.gif"
-						}
-					]
 				}
 			],
 			"class": "DepictionStackView"
