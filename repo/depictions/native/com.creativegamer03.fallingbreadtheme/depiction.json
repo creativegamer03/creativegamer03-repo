@@ -9,16 +9,12 @@
 				{
 					"screenshots": [
 						{
-							"accessibilityText": "Snowboard",
-							"url": "https://creativegamer03.github.io/repo/depictions/web/com.creativegamer03.fallingbreadtheme/screenshots/snowboard.png"
-						},
-						{
 							"accessibilityText": "Demonstration",
 							"url": "https://creativegamer03.github.io/repo/depictions/web/com.creativegamer03.fallingbreadtheme/screenshots/demo.gif"
 						}
 					],
-					"itemSize": "0.5",
-					"itemSize": "{auto, auto}",
+					"itemSize": "5",
+					"itemSize": "{1125, 2436}",
 					"class": "DepictionScreenshotsView"
 				},
 				{
