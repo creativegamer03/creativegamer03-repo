@@ -4,15 +4,15 @@ Version: 1.0.0
 Section: Themes
 Maintainer: CreativeGamer03
 Filename: ./debians/com.creativegamer03.fallingbreadtheme_1.0.0_iphoneos-arm64.deb
-Size: 468444
-MD5sum: fc888bfec995833825e5ee29fd37ca9a
-SHA1: 4dc4e439f85150398631d816cfd0e3decd239676
-SHA256: 6e7850efb946fb96a36de3b59efcc249c202bcf16d98162315345057bb80fcfc
-SHA512: f5fa4375c654533959da51c8d6ac40f37dd184368b739956b244a6b22bf12e5351178f031961a517b8397ab5ba864fda8bdac9a968825b92b4e5a2491ab3f92a
+Size: 468452
+MD5sum: f6d9ad9d0e9d95f7c10017d48d073458
+SHA1: b031795755b226536fb0ab90e5a7179c4754b55d
+SHA256: c7dc9e84b73e93ac492ad629c2cf736e2a23a541095e283518498742d5556d16
+SHA512: e53a5cb83c8bb24e01cc43f4d0a764e9b79c4c64523b98399ed60761ecb433d53bc597225f3a900a0a3f5a10ea4b4a5aa040349184f2e7347bcd12744d8fae7f
 Description: The Falling Bread GIF meme as a Respring Logo!
 Depiction: https://creativegamer03.github.io/repo/depictions/web/?p=com.creativegamer03.fallingbreadtheme
 SileoDepiction: https://creativegamer03.github.io/repo/depictions/native/com.creativegamer03.fallingbreadtheme/depiction.json
-Icon: https://creativegamer03.github.io/repo/PackageIcons/fallingbreadtheme.png
+Icon: https://creativegamer03.github.io/repo/assets/repo/PackageIcons/fallingbreadtheme.png
 Name: Falling Bread Respring Logo Theme
 Author: CreativeGamer03
 
