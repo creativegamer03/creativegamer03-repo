@@ -1,23 +1,17 @@
 {
 	"minVersion": "0.1",
-	"headerImage": "https://raw.githubusercontent.com/uchks/repo.me/master/assets/packageicons/fallingbreadtheme.png",
+	"headerImage": "https://raw.githubusercontent.com/creativegamer03/creativegamer03.github.io/refs/heads/testing/repo/assets/repo/PackageIcons/fallingbreadtheme.png",
 	"tintColor": "#22b5f4",
 	"tabs": [
 		{
 			"tabname": "Details",
 			"views": [
 				{
-					"screenshots": [
-						{
-							"accessibilityText": "Snowboard",
-							"url": "https://creativegamer03.github.io/repo/depictions/web/com.creativegamer03.fallingbreadtheme/screenshots/snowboard.png"
-						},
-						{
-							"accessibilityText": "Demonstration",
-							"url": "https://creativegamer03.github.io/repo/depictions/web/com.creativegamer03.fallingbreadtheme/screenshots/demo.gif"
-						}
-					],
-					"class": "DepictionScreenshotsView"
+					"URL": "https://creativegamer03.github.io/repo/depictions/web/com.creativegamer03.fallingbreadtheme/screenshots/demo.MOV",
+					"width": "884",
+					"height": "1920",
+					"cornerRadius": "25",
+					"class": "DepictionVideoView"
 				},
 				{
 					"class": "DepictionMarkdownView",
