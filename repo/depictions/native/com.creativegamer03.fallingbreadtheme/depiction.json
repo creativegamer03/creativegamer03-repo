@@ -13,7 +13,7 @@
 							"url": "https://creativegamer03.github.io/repo/depictions/web/com.creativegamer03.fallingbreadtheme/screenshots/demo.gif"
 						}
 					],
-					"itemSize": "5",
+					"itemCornerRadius": "5",
 					"itemSize": "{1125, 2436}",
 					"class": "DepictionScreenshotsView"
 				},
