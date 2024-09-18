@@ -1,6 +1,7 @@
 html {
 	height: 100%;
 	width: 100%;
+	background-color: rgba(0, 0, 0, 0.01);
 }
 
 body {
@@ -16,26 +17,86 @@ body {
 	margin-bottom: 3px;
 	border-style: none;
 	cursor: pointer;
+	font-family: sans-serif;
+	filter: drop-shadow(0 5px 5px rgba(0, 0, 0, 0.25));
+	transition: filter 0.2s ease-out, transform 0.2s ease-out;
 }
 
 .repo-button:before {
 	content: '+ ';
 }
 
+.repo-button:hover {
+	transform: translateY(-5px);
+	filter: drop-shadow(0 10px 10px rgba(0, 0, 0, 0.25));
+}
+
+.repo-button:active {
+	transform: translateY(0px);
+	filter: drop-shadow(0 5px 5px rgba(0, 0, 0, 0.25));
+}
+
 #cydia {
-	background-image: linear-gradient(90deg, #C28E79, #714824);
+	background-image: linear-gradient(90deg, #C28E79, #714824, #C28E79);
+	background-size: 200%;
+	background-position: 100%;
+	transition: background-position 0.2s ease-out;
+}
+
+#cydia:hover {
+	background-position: 0%;
 }
 
 #installer {
-	background-image: linear-gradient(90deg, #60BFF9, #2349E4);
+	background-image: linear-gradient(90deg, #60BFF9, #2349E4, #60BFF9);
+	background-size: 200%;
+	background-position: 100%;
+	transition: background-position 0.2s ease-out;
+}
+
+#installer:hover {
+	background-position: 0%;
 }
 
 #sileo {
-	background-image: linear-gradient(90deg, #70DDCE, #4BA4AA);
+	background-image: linear-gradient(90deg, #70DDCE, #4BA4AA, #70DDCE);
+	background-size: 200%;
+	background-position: 100%;
+	transition: background-position 0.2s ease-out;
+}
+
+#sileo:hover {
+	background-position: 0%;
 }
 
 #zebra {
-	background-image: linear-gradient(90deg, #E2E8EC, #2A2F33);
+	background-image: linear-gradient(90deg, #E2E8EC, #2A2F33, #E2E8EC);
+	background-size: 200%;
+	background-position: 100%;
+	transition: background-position 0.2s ease-out;
+}
+
+#zebra:hover {
+	background-position: 0%;
+}
+
+#centerbox {
+	display: flex;
+	justify-content: center;
+}
+
+#centerbox button {
+	margin-left: 10px;
+}
+
+#title {
+	display: flex;
+	justify-content: center;
+}
+
+#title img {
+	margin-right: 20px;
+	filter: drop-shadow(0 0 5px rgba(0, 0, 0, 0.25));
 }
 
 #repos {
