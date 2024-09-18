@@ -17,6 +17,8 @@
 							"url": "https://creativegamer03.github.io/repo/depictions/web/com.creativegamer03.fallingbreadtheme/screenshots/demo.gif"
 						}
 					],
+					"itemSize": "0.5",
+					"itemSize": "{auto, auto}",
 					"class": "DepictionScreenshotsView"
 				},
 				{
